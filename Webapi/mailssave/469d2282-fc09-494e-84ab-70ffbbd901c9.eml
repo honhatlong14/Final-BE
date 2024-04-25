@@ -1,0 +1,14 @@
+From: FinalProject <finalprojdev01@gmail.com>
+Date: Wed, 06 Dec 2023 16:51:58 +0700
+Subject: Sign-up Verification - Verify Email
+Message-Id: <UYYHW1VVOLU4.TMD4VYFHTFWB3@quangminh>
+Sender: FinalProject <finalprojdev01@gmail.com>
+To: Admin@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+
+                        <h4>Verify Email</h4>
+                        <p>Thanks for registering!</p>
+                        <p>Please use the below token to verify your email address with the <code>/verify-email</code> api route:</p>
+                             <p><code>8C7B27CFE2E531A60D7BF5D170E9FC3F609B5EF42F09C56EF70CCD8AF38258D9EF0C0CEBB740B8A4</code></p>

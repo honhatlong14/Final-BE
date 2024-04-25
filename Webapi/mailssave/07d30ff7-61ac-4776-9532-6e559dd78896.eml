@@ -1,0 +1,12 @@
+From: FinalProject <finalprojdev01@gmail.com>
+Date: Sat, 23 Mar 2024 10:12:54 +0700
+Subject: Sign-up Verification API - Email Already Registered
+Message-Id: <46IFVZJVLMU4.YMKPOQ46JLCR2@quangminh>
+Sender: FinalProject <finalprojdev01@gmail.com>
+To: minhtt333@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<h4>Email Already Registered</h4>
+                         <p>Your email <strong>minhtt333@gmail.com</strong> is already registered.</p>
+                         <p>If you don't know your password please visit the <a href="http://localhost:3000/account/forgot-password">forgot password</a> page.</p>
